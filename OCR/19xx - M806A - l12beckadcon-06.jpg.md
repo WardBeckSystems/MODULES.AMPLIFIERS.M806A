@@ -1,5 +1,5 @@
 # 19xx - M806A - l12beckadcon-06.jpg
-Wiki page: [M806A](../../../PAGES/M806A.md)
+Wiki page: [M806A](../../../../PAGES/M806A.md)
 
 
 - **Year:** unknown (unknown)
@@ -23,7 +23,7 @@ Wiki page: [M806A](../../../PAGES/M806A.md)
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M806A/19xx - M806A - l12beckadcon-06.jpg",
+ "file": "Modules/AMPLIFIERS/M806A/PHOTOS/19xx - M806A - l12beckadcon-06.jpg",
  "sha256": "543d53bf7e94561988c4dba1a81483178d7b7981c4601c22401a8faba560e720",
  "kind": "module",
  "models": [
