@@ -1,5 +1,5 @@
 # 19xx - M806A - l12beckadcon-08.jpg
-Wiki page: [M806A](../../../../PAGES/M806A.md)
+Wiki page: [M806A](../)
 
 
 - **Year:** unknown (unknown)

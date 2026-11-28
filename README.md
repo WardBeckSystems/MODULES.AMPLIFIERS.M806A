@@ -1,6 +1,6 @@
 # M806A · Amplifiers
 
-Ward-Beck Systems M806A. Wiki page: [M806A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M806A.html)
+Ward-Beck Systems M806A. Wiki page: [M806A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M806A/)
 
 | Folder | What is in it | Files |
 |---|---|---|
